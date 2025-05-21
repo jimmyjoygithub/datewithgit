@@ -1,4 +1,6 @@
 for merge
+
+for conflict
 hello1
 
 modified 
